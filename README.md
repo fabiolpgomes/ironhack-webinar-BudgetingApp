@@ -1,4 +1,4 @@
-# ironhack-webinar-BudgetingApp
+# Budget in App
 Build a Budgeting App with Javascript
 
 
